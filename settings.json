@@ -1,0 +1,7 @@
+{
+    "tfsUrl": "http://so-prd-tfsapp1:8080/tfs/",
+    "localProjectLocation": "D:\\projects",
+    "vsPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Professional\\Common7\\IDE",
+    "tfPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Professional\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer\\TF.exe",
+    "switchStartupSettingsPath": "D:\\Settings\\IXRS.sln.startup.json"
+}
